@@ -15,3 +15,5 @@ Behind the scenes of modern web browsers.
 - [Positioning](md/07-positioning.md)
 
 - [Layered representation](md/08-layered-representation.md)
+
+![image](https://github.com/saidali-ibn-zafar/How-Browsers-Work/assets/120341849/ff5892f2-0906-4737-8eef-dffdd1b84b3f)
